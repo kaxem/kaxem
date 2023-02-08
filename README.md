@@ -2,7 +2,7 @@
 - 👀 I’m interested in web security
 - 🌱 I’m currently learning about SOC
 - 📫 How to reach me: [Mail](mailto:kaaxem@yahoo.com) and [Linkedin](https://www.linkedin.com/in/kazem-bolandnazar-150770255/)
-- - 📼 I'll be happy if you listen to my mixtapes at [Soundcloud](https://soundcloud.com/xaiq)
+- 📼 I'll be happy if you listen to my mixtapes at [Soundcloud](https://soundcloud.com/xaiq)
 <!--- 
 - 💞️ I’m looking to collaborate on 
 --->
